@@ -24,3 +24,8 @@ R= Não, so estara disponiveis para outros usuarios visualizarem se o dono do re
 05- O que é VCS?
 
 R=  version control system, traduzindo seria -> Sistema de controle de versão.
+
+
+06- O que é Branch?
+
+R= É uma ramificação de um repositorio, tendo como funcionalidade de uma possivel adição no codigo ou projeto.
