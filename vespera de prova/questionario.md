@@ -29,3 +29,10 @@ R=  version control system, traduzindo seria -> Sistema de controle de versão.
 06- O que é Branch?
 
 R= É uma ramificação de um repositorio, tendo como funcionalidade de uma possivel adição no codigo ou projeto.
+
+
+07-O que é um Pull request?
+
+R= É quando voce envia uma solicitação de melhoria para o repositorio, quando voce quer puxar, trazer ou pegar algo para o seu repositorio usando Git. Simplificando, é basicamente uma solicitação de atualizaçao de codigo.
+
+
