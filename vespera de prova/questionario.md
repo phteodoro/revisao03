@@ -39,3 +39,7 @@ R= É quando voce envia uma solicitação de melhoria para o repositorio, quando
 08-  O que é Fork?
 
 R= É uma copia de um repositorio.
+
+09- O que é um Clone?
+
+R= É a copia do repositorio local para o repositorio remoto.
