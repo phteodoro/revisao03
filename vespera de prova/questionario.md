@@ -36,3 +36,6 @@ R= É uma ramificação de um repositorio, tendo como funcionalidade de uma poss
 R= É quando voce envia uma solicitação de melhoria para o repositorio, quando voce quer puxar, trazer ou pegar algo para o seu repositorio usando Git. Simplificando, é basicamente uma solicitação de atualizaçao de codigo.
 
 
+08-  O que é Fork?
+
+R= É uma copia de um repositorio.
